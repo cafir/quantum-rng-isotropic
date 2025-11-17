@@ -6,7 +6,7 @@ This repository provides a **Quantum Random Number Generator (QRNG)** implemente
 
 ## Features
 
-- **Quantum-based randomness** using Qiskit's Aer simulator or real quantum backends.
+- **Quantum-based randomness** using Qiskit's Aer simulator.
 - **Direct mode**: Uniform random integers without isotropic mapping.
 - **Isotropic mode**: Uses spherical coordinates (θ, φ) for sampling on the unit sphere.
 - **Unique mode**: Optionally generate non-repeating random numbers.
