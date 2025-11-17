@@ -18,10 +18,6 @@ This repository provides a **Quantum Random Number Generator (QRNG)** implemente
 ## Installation
 
 ```bash
-# Create a virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
 
 # Install dependencies
 pip install qiskit numpy
